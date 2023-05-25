@@ -9,7 +9,7 @@ To use this code, you need to have a modern web browser that supports JavaScript
 1. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/object-recognition.git
+git clone https://github.com/klvncj/ml5-object-recognition.git
 ```
 
 2. Open the `index.html` file in a web browser.
