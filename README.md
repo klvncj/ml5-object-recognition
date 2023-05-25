@@ -14,11 +14,8 @@ git clone https://github.com/klvncj/ml5-object-recognition.git
 
 2. Open the `index.html` file in a web browser.
 
-3. Click on the "Select File" button to choose an image or video file.
+3. The ML5 COCO-SSD model will process the file and display the detected objects along with their respective confidence scores.
 
-4. The ML5 COCO-SSD model will process the file and display the detected objects along with their respective confidence scores.
-
-5. You can adjust the confidence threshold for object detection by modifying the `confidenceThreshold` variable in the `script.js` file. The default threshold is set to `0.5`, but you can experiment with different values.
 
 ## Customization
 
